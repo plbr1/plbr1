@@ -1,4 +1,4 @@
-### Olá, meu nome é Pedro Luis (PL) 
+### Olá, meu nome é Pedro Luis e tenho 18 anos!
 
 - 👨‍💻 Cursando Sistemas de informação na UVV (1° periodo)
 - 👾 Future (?)
