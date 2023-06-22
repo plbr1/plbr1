@@ -1,7 +1,7 @@
 ### Olá, meu nome é Pedro Luis e tenho 18 anos!
 
 - 👨‍💻 Cursando Sistemas de informação na UVV (1° periodo)
-- 👾 Future (?)
+- 👾 Estudandando e me aprofundando em cybersecurity
 - 👺 013CBJR & Investidor Esportivo 
 
 <div style="display: inline_block"><br>
