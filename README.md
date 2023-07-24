@@ -1,7 +1,7 @@
 ### Olá, meu nome é Pedro Luis e tenho 18 anos!
 
 - 👨‍💻 Cursando Sistemas de informação na UVV (2° periodo)
-- 👾 Estudandando e me aprofundando em Data Science
+- 👾 Estudando e me aprofundando em Data Science
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
