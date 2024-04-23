@@ -1,4 +1,4 @@
-### Olá, meu nome é Pedro Luis e tenho 18 anos!
+### Olá, meu nome é Pedro Luis e tenho 19 anos!
 
 - 👨‍💻 Cursando Sistemas de informação na UVV (2° periodo)
 - 👾 Estudando e me aprofundando em Data Science
