@@ -1,12 +1,12 @@
-### Olá, meu nome é Pedro Luis Breda!
+### Olá!
 
-- 👨‍💻 Cursando Sistemas de informação na UVV (2° periodo)
+- 👨‍💻 Cursando Sistemas de informação na UVV (3° periodo)
 - 👾 Estudando e me aprofundando em Data Science
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="PL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="PL-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+  <img align="center" alt="PL-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 </div>
 
 ##
