@@ -1,6 +1,6 @@
 ### Olá!
 
-- 👨‍💻 Cursando Sistemas de informação na UVV (3° periodo).
+- 👨‍💻 Cursando Inteligência Artificial na Universidade Vila Velha (1° periodo).
 - 👾 Estudando e me aprofundando em Data Science com um enfoque especial em aplicações esportivas.
 
 <div> 
