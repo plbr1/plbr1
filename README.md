@@ -1,6 +1,9 @@
 
 
 <div> 
+  - Computer Engineering undergraduate 
+
+  - Data Scientist | Sports Analytics
 
   - Pour forth your brilliance upon my dense intellect; dissipate the darkness that covers me — the darkness of sin and ignorance.
   
