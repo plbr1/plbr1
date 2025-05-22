@@ -4,7 +4,7 @@
   
   - Computer Engineering undergraduate 
   
-  - Data Scientist | Sports Analytics
+  - Data Scientist | Offensive and Defensive Cybersecurity Enthusiast
 
   - Pour forth your brilliance upon my dense intellect; dissipate the darkness that covers me — the darkness of sin and ignorance.
   
